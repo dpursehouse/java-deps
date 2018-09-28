@@ -1,0 +1,2 @@
+# Java dependencies dummy project
+
