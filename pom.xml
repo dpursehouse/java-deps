@@ -206,6 +206,11 @@
                 <artifactId>maven-antrun-plugin</artifactId>
                 <version>1.8</version>
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-pmd-plugin</artifactId>
+                <version>3.10.0</version>
+            </plugin>
         </plugins>
     </build>
 </project>
