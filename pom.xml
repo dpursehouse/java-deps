@@ -94,7 +94,7 @@
         <dependency>
             <groupId>com.google.template</groupId>
             <artifactId>soy</artifactId>
-            <version>2018-03-14</version>
+            <version>v20160111</version>
         </dependency>
         <dependency>
             <groupId>com.google.jimfs</groupId>
