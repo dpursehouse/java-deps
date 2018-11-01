@@ -74,7 +74,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-guice</artifactId>
-            <version>3.6.1.Final</version>
+            <version>3.6.2.Final</version>
         </dependency>
         <dependency>
             <groupId>com.github.tomakehurst</groupId>
