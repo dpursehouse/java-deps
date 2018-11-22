@@ -27,6 +27,11 @@
             <scope>test</scope>
         </dependency>
         <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>26.0-jre</version>
+        </dependency>
+        <dependency>
             <groupId>org.checkerframework.annotatedlib</groupId>
             <artifactId>guava</artifactId>
             <version>26.0-jre</version>
