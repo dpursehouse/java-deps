@@ -139,7 +139,7 @@
         <dependency>
             <groupId>org.testcontainers</groupId>
             <artifactId>testcontainers</artifactId>
-            <version>1.10.7</version>
+            <version>1.11.0</version>
         </dependency>
     </dependencies>
     <build>
