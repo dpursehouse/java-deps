@@ -5,7 +5,8 @@ updates:
   schedule:
     interval: daily
     time: "09:00"
-  open-pull-requests-limit: 10
+  # Disabling all Dependabot PRs until further notice:
+  open-pull-requests-limit: 0
   ignore:
   - dependency-name: io.dropwizard.metrics:metrics-core
     versions:
